@@ -4,7 +4,8 @@ body {
     margin: 0;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ja7Ain-g_9NDYFG50YKfhaBa3xF1sTPgJQ&usqp=CAU");
     background-repeat: no-repeat;
-    background-size: 500px 1200px;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
     color: #f5f6f7;
     font-family: Tahoma;
     font-size: 16px;
